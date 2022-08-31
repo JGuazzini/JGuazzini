@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jguazzini&label=Profile%20views&color=0e75b6&style=flat" alt="jguazzini" /> </p>
 
-
+-  ❗  Open to work
 
 - 🌱 I’m currently learning **TypeScript, React Native**
 
@@ -36,3 +36,4 @@ Nowadays, thanks to the technological projects that I have carried out with the 
 
 <h3 align="left">• 'Love the process' is a poster I've long wanted to put up in my profile :) Every time I have to tackle creative work, it's absolutely grueling for me. But when I remember that it's all about the process, I push through and always come back with something I never knew I could do. </h3>
 
+<h3>I enjoy meeting new people and hearing new perspectives. reach out if you want to talk to me about emerging tech or creating software, let's work together.</h3>
