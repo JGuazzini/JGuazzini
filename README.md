@@ -21,9 +21,18 @@
 
 
 
-<h3 align="left">Working with me</h3>
+<h2 align="left">Working with me</h3>
 
-<h1 align="left">• Above all, the most important thing I bring to work every day is empathy. As a remote worker, it's the #1 tool we have to ensure success. We may not be able to see each other, but if we work hard enough to build empathy for one another, we can keep moving forward together.</h1>
 
-<h1 align="left">• 'Love the process' is a poster I've long wanted to put up in my profile :) Every time I have to tackle creative work, it's absolutely grueling for me. But when I remember that it's all about the process, I push through and always come back with something I never knew I could do. </h1>
+<h3>My dream has always been to work remotely to be more productive and be able to take advantage of the time in my daily learning and be a better professional. I am a big fan of challenges, of reading, and finding a good book is always a source of joy.
+
+Before entering the world of technology, I worked for years in customer service and I remember it as a great experience that helped me to be more empathetic and work as a team.
+Nowadays, thanks to the technological projects that I have carried out with the work teams that I have met while studying, I have been able to use these communication skills to have a great work environment and achieve great team solutions. Personally, remote and team work make a pleasant experience every day.
+
+</h3>
+
+
+<h3 align="left">• Above all, the most important thing I bring to work every day is empathy. As a remote worker, it's the #1 tool we have to ensure success. We may not be able to see each other, but if we work hard enough to build empathy for one another, we can keep moving forward together.</h3>
+
+<h3 align="left">• 'Love the process' is a poster I've long wanted to put up in my profile :) Every time I have to tackle creative work, it's absolutely grueling for me. But when I remember that it's all about the process, I push through and always come back with something I never knew I could do. </h3>
 
