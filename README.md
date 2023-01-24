@@ -5,9 +5,9 @@
 
 -  ❗  Open to work
 
-- 🌱 I’m currently learning **TypeScript, React Native**
+- 🌱 I’m currently learning **php, laravel**
 
-- 📫 How to reach me **jorge.guazzini.y@gmail.com**
+- 📫 How to reach me **jorge.guazzini@pypinformatica.cl**
 
 - ⚡ Fun fact **bodybuilding is my lifestyle**
 
